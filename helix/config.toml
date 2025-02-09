@@ -1,0 +1,8 @@
+theme = "tokyonight"
+
+[editor]
+bufferline = "multiple"
+
+[keys.normal]
+"C-right" = ":bn"
+"C-left" = ":bp"
