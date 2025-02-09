@@ -1,0 +1,12 @@
+# Ignore all files
+*
+!.gitignore
+
+# Helix conf
+!helix
+
+# Kitty conf
+!kitty
+
+# Zellij conf
+!zellij
